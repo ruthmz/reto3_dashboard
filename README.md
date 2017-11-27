@@ -30,7 +30,5 @@
  ![dashboard](assets/img/SKETCH-03.png)
   ### Notas
  * En esta sección se puede acceder a los promedios y porcentajes de las alumnas.
-   
- ![dashboard](assets/img/SKETCH-03.png)
   
  ![dashboard](assets/img/SKETCH-06.png)
